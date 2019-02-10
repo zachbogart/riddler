@@ -118,7 +118,7 @@ def update_results(result, user_choice):
     return [user_wins_using_red, user_wins_using_blue, user_wins_using_black,
             total_using_red, total_using_blue, total_using_black]
 
-games = 100000
+games = 1000000
 
 for game in range(games):
 
