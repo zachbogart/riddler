@@ -46,6 +46,6 @@ First, find all ways to get 15 (sets)
 |   |   |   |
 
 - Now we just play tic tac toe since both players are shooting for three numbers that sum to 15 (no discards and no repeats)
-- If both play perfectly, they always draw, do I believe the answer is no one wins. What a nice card game.
+- If both play perfectly, they always draw, so I believe the answer is no one wins. What a nice card game.
 
 '''
